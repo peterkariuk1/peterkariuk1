@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterkariuk1&label=Profile%20views&color=0e75b6&style=flat" alt="peterkariuk1" /> </p>
 
-- 🔭 I’m currently working on **web integrated AI solutions**
+- 🔭 I’m currently working on **Web and AI solutions**
 
 - 📫 How to reach me **itspeterkariuki@gmail.com**
 
