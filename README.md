@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Peter Kariuki<br>💻 Software Developer | Tech Community Leader<br>🌱 Currently exploring AI, GenAI & Full-Stack Dev<br>🚀 Building with React, Node.js & LangChain<br>📫 Let’s connect
+# 👋 Hi, I’m Peter Kariuki
+💻 Software Developer | Tech Community Leader<br>🌱 Currently exploring AI, GenAI & Full-Stack Dev<br>🚀 Building with React, Node.js & LangChain<br>📫 Let’s connect
 
 
 ## 🌐 Socials:
